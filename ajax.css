@@ -1,0 +1,22 @@
+*{
+    
+    text-shadow: salmon;
+    background-color: hsla(180, 43%, 35%, 0.794);
+
+}
+table{
+    font-weight: bold;
+    
+}
+th{
+    color:red;
+    font-size: 20px;
+    
+}
+.display{
+    display: none;
+}
+#myModal{
+    background-color: antiquewhite;
+    
+}
